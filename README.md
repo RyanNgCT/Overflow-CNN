@@ -21,7 +21,7 @@ conda install tensorflow-gpu (for those who have GPU)
 conda install pydot
 ```
 
-Learn how to use jupyter and colab [here]()
+Learn how to use jupyter and colab [here](https://github.com/RyanNgCT/Overflow-CNN/blob/master/Jupyter%20and%20Colab%20Guide.pdf)
 
 ---
 Slide Contributors:
