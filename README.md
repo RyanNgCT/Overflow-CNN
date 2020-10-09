@@ -19,7 +19,7 @@ install the following:
 conda install -c anaconda jupyter 
 conda install tensorflow
 conda install tensorflow-base
-conda install tensorflow-gpu (for those who have GPU)
+conda install tensorflow-gpu
 conda install pydot
 ```
 
